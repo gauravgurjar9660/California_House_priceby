@@ -1,18 +1,18 @@
-California Housing Price Predictor 
+##**California Housing Price Predictor** 
 🏠This project implements a robust machine learning pipeline to predict housing prices in California. It leverages advanced ensemble learning techniques to provide accurate real-time price estimations based on historical data and geographic features.
-🚀 Key Features
+##🚀 Key Features
 High-Performance Models:Utilizes XGBoost and LightGBM to achieve superior predictive accuracy.
 Feature Engineering: Processes location-based data and housing attributes to optimize model performance.
 Interactive UI: Built with Streamlit, allowing users to input specific house features and get instant price predictions.
 Scalable Pipeline: Includes integrated data preprocessing and scaling to ensure consistent model performance.
-🛠 Tech Stack
+##🛠 Tech Stack
 Language: Python
 Machine Learning: Scikit-learn, XGBoost, LightGBM
 Data Processing: Pandas, NumPy
 Frontend: Streamlit
 Deployment: Streamlit Cloud
     
-🧠 My Learning JourneyDuring this project, I focused on building a robust end-to-end machine learning pipeline. 
+##🧠 My Learning JourneyDuring this project, I focused on building a robust end-to-end machine learning pipeline. 
 My key steps included:
 Data Analysis: 
     Performed correlation analysis to identify the most impactful features for price prediction.

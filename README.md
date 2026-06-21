@@ -36,4 +36,4 @@ Bash
 streamlit run app.py
 📊 Project Status
 Status: Fully Deployed & Operational
-Deployment Link: View Live Ap
+Deployment Link: https://californiahousepriceby-dyp3fxtsbcjxmxjzarbnbq.streamlit.app/
